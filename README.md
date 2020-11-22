@@ -11,4 +11,4 @@ Here we introduce another approach towards obtaining PAOs that was initially pro
 
 We suggest multiple test systems for benchmarking our approach against Lee and Head-Gordon's approach, and several potential applications in bio-molecule and nanoparticle stidues are discussed as well. 
 
-![Proposal](/images/Proposal.png)
+![Proposal](Images/Proposal.png)
