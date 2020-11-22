@@ -10,3 +10,5 @@ In this work we introduce polarized atomic orbitals which have the same size as 
 Here we introduce another approach towards obtaining PAOs that was initially proposed by Schutt and VandeVondele which can be coupled with a machine learning model. We propose to implement this scheme in Q-Chem where a neural network can take over the work of performnig the optimization and we can apply our method to study dynamics of bigger systems. 
 
 We suggest multiple test systems for benchmarking our approach against Lee and Head-Gordon's approach, and several potential applications in bio-molecule and nanoparticle stidues are discussed as well. 
+
+![Proposal](/images/Proposal.png)
