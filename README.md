@@ -12,3 +12,8 @@ Here we introduce another approach towards obtaining PAOs that was initially pro
 We suggest multiple test systems for benchmarking our approach against Lee and Head-Gordon's approach, and several potential applications in bio-molecule and nanoparticle stidues are discussed as well. 
 
 ![Proposal](Images/Proposal.png)
+
+###References
+1. [Lee and Head-Gordon's approach](https://aip.scitation.org/doi/10.1063/1.475199)
+2. [Schutt's approach](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.8b00378)
+3. [Machine learning in quantum chemistry](https://pubs.acs.org/doi/10.1021/acs.jpclett.9b03664)
