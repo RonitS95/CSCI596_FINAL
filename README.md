@@ -14,10 +14,10 @@ We suggest multiple test systems for benchmarking our approach against Lee and H
 ![Proposal](Images/Proposal.png)
 
 ### Lee and MHG Approach
-![Lee](Images/MHG-approach.png)
+![Lee](Images/MHG-approach.png){:height="50%" width="50%"}
 
 ### Schutt Approach
-![Schutt](Images/Schutt-approach.png)
+![Schutt](Images/Schutt-approach.png){:height="50%" width="50%"}
 
 #### References
 1. [Lee and Head-Gordon's approach](https://aip.scitation.org/doi/10.1063/1.475199)
