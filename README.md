@@ -15,7 +15,7 @@ We suggest multiple test systems for benchmarking our approach against Lee and H
 
 ### Comparing the two approaches
 
-<img src="Images/MHG-approach.png" width=40% height=20%>     <img src="Images/Schutt-approach.png" width=50% height=50%>
+<img src="Images/MHG-approach.png" width=40% height=20%>     <img src="Images/Schutt-approach.png" width=50% height=60%>
 
 
 
